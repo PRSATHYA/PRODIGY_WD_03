@@ -1,2 +1,2 @@
-# PRODIGY_WD_03
-Tic Tac Toe
+
+Tic Tac Toe Game Website created using HTML, CSS and JavaScript.
